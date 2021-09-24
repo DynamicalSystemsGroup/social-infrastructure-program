@@ -1,0 +1,7 @@
+# Community Fund Stewardship
+
+0L Community Funds are owned by the entire network. Stewards of those funds are obligated to steer those funds in service of the members of the network. Funds will only be disbursed after polling the community. Specifically, funds will be transferred to another address only if 2/3 of validators in an epoch approve (by voting power). 
+
+To cover costs of managing this program, the **Steward** Organization may receive an administrative fee up to 4% of the funds awarded to teams; this dispersement is also subject to community approval. As a CommunityWallet if the validators see fit to Sunset this account its operators will accommodate.
+
+As part of our contributions to the 0L network BlockScience has helped to define some of the community programs available at mainnet launch. BlockScience is serving as a steward for the Social Infrastructure Program at genesis as part of the bootstrapping; however, BlockScience reserves the right to transfer stewardship of one or both of these programs. An ideal candidate organization will have a the trust of the membership, relevant expertise and the operational capabilities to serve as a steward. Such a transfer would be subject to approval of the validators and the express consent of the recipient.
