@@ -26,9 +26,9 @@ By by donating to the social infrastructure program community members make it po
 ## How Will These Resources be Used?
 
 The resources collected by the Social Infrastructure Program will supply capital to membership benefits programs focus on social and economic *welfare*. The term welfare is often used for specific government programs because benefits programs or provided or mandated by. However, here we reimagine benefits programs targeting social and economic welfare as social infrastructures provided *for and by* communities to serve the needs of those communities' members, as whole persons, not merely as economic actors. Welfare ecompasses support intend to ensure that members of the community meet basic human needs. A nonexclusive list of examples:
+* Access to Healthcare
+* Access Education
 * Access to Housing
-* Acess to Healthcare
-* Education
 * Physical Safety
 * Economic Security (e.g. Insurance)
 * Arbitration & Dispute Resolution
